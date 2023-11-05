@@ -8,7 +8,6 @@ class ListNode3 {
 
 public class LInkenListReversion {
     public static void main(String[] args) {
-        reverseList();
     }
     public ListNode3 reverseList(ListNode3 head) {
         ListNode3 prev = null;

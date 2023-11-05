@@ -8,7 +8,6 @@ class ListNode2 {
 
 public class NodeDeletion2 {
     public static void main(String[] args) {
-        removeNthFromEnd();
     }
     public static ListNode2 removeNthFromEnd(ListNode2 head, int n) {
         ListNode2 dummy = new ListNode2(0);
